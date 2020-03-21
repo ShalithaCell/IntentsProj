@@ -5,4 +5,9 @@
     <string name="app_second_number">Number 2</string>
 
     <string name="app_ok">OK</string>
+
+    <string name="app_sum">+</string>
+    <string name="app_sub">-</string>
+    <string name="app_div">/</string>
+    <string name="app_mul">*</string>
 </resources>
