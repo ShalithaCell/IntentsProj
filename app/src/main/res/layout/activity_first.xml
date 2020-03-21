@@ -8,7 +8,7 @@
 
 
     <EditText
-        android:id="@+id/txtNumber"
+        android:id="@+id/txtNumber1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
@@ -32,7 +32,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/txtNumber1"
+        android:id="@+id/txtNumber"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
@@ -53,7 +53,7 @@
         android:inputType="number"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txtNumber" />
+        app:layout_constraintTop_toBottomOf="@+id/txtNumber1" />
 
     <Button
         android:id="@+id/btnOK"
